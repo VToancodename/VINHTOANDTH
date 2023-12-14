@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace DEMO.Models
 {
-    internal class Students
+    internal class User
     {
+
         public int ID { get; set; }
+
+        public int MSSV { get; set; }
+
     }
 }
