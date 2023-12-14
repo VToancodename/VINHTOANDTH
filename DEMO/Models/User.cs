@@ -8,5 +8,6 @@ namespace DEMO.Models
 {
     internal class Students
     {
+        public int ID { get; set; }
     }
 }
